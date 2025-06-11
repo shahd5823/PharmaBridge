@@ -1,0 +1,24 @@
+Code ULL: git@github.com:shahd5823/PharmaBridge.git
+
+Installation Instruction:  
+        1. In cmd write the follwing commands
+             - git clone git@github.com:shahd5823/PharmaBridge.git
+             - composer install
+             - npm install
+             - php artisan migrate 
+
+        Note that : 1.You must have installed the required programs to run the
+                      program, such as compose, node.js, and XAMPP. After running 
+                      XAMPP, make sure to change the database data in the .env file.
+
+                    2. we use SSH
+
+       
+
+        2.  In VS code Terminal write the follwing commands
+              
+             - php artisan serve
+             - npm run dev
+             - node server.js 
+
+
